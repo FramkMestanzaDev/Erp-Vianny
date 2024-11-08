@@ -1,0 +1,1759 @@
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.config
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbprojResolveAssemblyReference.cache
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Nota_Pedido.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Produccion.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Vianny.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.GenerateResource.Cache
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.xml
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.pdb
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.xml
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.pdb
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Direccion_Despacho.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Listar_Clientes.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.DESPACHO.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Clientes.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobar_notapedido.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form1.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Pedidos.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Np.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\RdlCompile.cache
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\RdlCompile.compiled
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Transporte.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.validar_Almacen.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.LoginForm1.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.MDIParent1.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ficha.resources
+E:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas_Textil.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.config
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.pdb
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.xml
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbprojAssemblyReference.cache
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobar_notapedido.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.DESPACHO.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Pedidos.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Direccion_Despacho.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ficha.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Clientes.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form1.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Listar_Clientes.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.LoginForm1.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.MDIParent1.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Nota_Pedido.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Produccion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Vianny.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Transporte.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.validar_Almacen.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas_Textil.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.GenerateResource.cache
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\RdlCompile.cache
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\RdlCompile.compiled
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.CoreCompileInputs.cache
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.CopyComplete
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.xml
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.pdb
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Tela.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Eliminar.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobacion_comercial.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresar_Packing.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_hilo.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.ingre_pack_hilo.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_remision.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresar_transportista.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Transportistas.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Op_Manufactura.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.FormFamilia.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Padron.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.combinaciones.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Cantidad_Tallas.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cliente.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.HojaCotizacion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Producto_Cotizacion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion2.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion3.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Interop.SHDocVw.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.ResolveComReference.cache
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Contabilidad.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Almacen.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Interop.Acrobat.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Interop.FileViewLib.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Documento_Pdf.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.BDocumentoContable.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Tesoreria.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Documentos.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Facturas.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Buscar_Factura.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Factura.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Copiar_Desde.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cotizacion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Cotizacion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Cotizaciones.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobar_Cotizacion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Cancelacion_documento.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Tesoreria.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Ventas.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Opcion_venta.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Cancelar_Factura.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Clientes.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form2.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Tipo_Venta.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cobranzas.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Morosidad_Clientes.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Partidas.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Packing.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form3.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detale_Venta.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Estado_Cliente.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\itextsharp.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Costura.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Confeccion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Confeccion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.produc_diaria_confec.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Confeccion.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.BUSCAR_OP.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.observaciones_vn.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_ventasn.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.busca_vn.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.manifest
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.application
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe.manifest
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.application
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Observacion2.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Imprimir_hco.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\stdole.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Costura.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_Vendedores.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ubigeo.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacen.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Facturas.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.RUBRO_DE_FACTURAS.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\AxShockwaveFlashObjects.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\ShockwaveFlashObjects.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_comisiones.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.Web.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\CRVsPackageLib.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\EnvDTE.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\VSLangProj.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\VsWebSite.Interop.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\EnvDTE80.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.MSXML.dll
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe.config
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Articulos_stock.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.almacen_guia.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Nsalida.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.NotaIngreso.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Nia_Nsa.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Guia.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_Factura.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form4.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Teñido.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_tenido.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_Productos.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Report_Tenido.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_conta.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_teñid.resources
+D:\comercial-textil\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Imprimir_Teñido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\SOIGET.exe.config
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\SOIGET.exe.manifest
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\SOIGET.application
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\SOIGET.exe
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\SOIGET.pdb
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\SOIGET.xml
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\AxShockwaveFlashObjects.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.Web.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\EPPlus.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\Newtonsoft.Json.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\ShockwaveFlashObjects.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CRVsPackageLib.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\EnvDTE.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\VSLangProj.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\VsWebSite.Interop.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\EnvDTE80.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\stdole.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\EPPlus.xml
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\bin\Debug\Newtonsoft.Json.xml
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\SOIGET.exe.config
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Interop.Acrobat.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Interop.SHDocVw.dll
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.ResolveComReference.cache
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Cantidad_Tallas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Abridora.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Actualizar_Fecha.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Actualizar_tienda.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.ADICIONAR_RUBRO_A_CODIGO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Agregar_Packing.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacen.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.almacen_guia.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacen_guia_chil.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.almacen_nuevo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Cotizaciones.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Productos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Confeccion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_movimientos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobacion_comercial.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobar_Cotizacion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobar_notapedido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Articulos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Articulos_stock.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Asignacion_Molde.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Asignacion_op_tela.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.AUDITORES.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.BDocumentoContable.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Buscar_Factura.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.BUSCAR_VENTA.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.BUSCAR_OP.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.buscar_Packing.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.buscar_requerimitno.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.busca_vn.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Calidad_tela__acabada.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Calidad_tela_cruda.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Cambiar_Vendedor.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Cancelacion_documento.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Cancelar_Factura.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Clientes.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Cliente_nuevos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Codificacion_Prodcutos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Codigo_barra.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.combinaciones.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_ven.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_Vendedores.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Conera.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Confeccion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Contabilidad.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Copiar_Desde.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.corte.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.CREAR_PARTIDAS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Crear_rollos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Data_Bancos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.DEFECTOS_AUDITORIA.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.DESPACHO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Despachos_adicionales.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detale_Venta.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Factura.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Confeccion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Cotizacion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_guia.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Pedidos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.DET_FICHA_CONSUMO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.DET_FICHA_TECNICA.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.det_maquina.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.det_ns_Prodc.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.det_reque.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Det_Rollo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.det_tesoreria.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Direccion_Despacho.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Documento_Pdf.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Editar_Producto.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Eliminar.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.EMISION_PARTIDAS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Error_ventas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Estado_Cliente.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Explosion_avios_graus.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ficha.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.FICHA_ALMACE.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.FICHA_CONSUMO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.FICHA_TECNICA.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cliente.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Clientes.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion2.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form1.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form2.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form3.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form4.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form5.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form6.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Formato_solic_avios.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.FormFamilia.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion3.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_cuentarxcobrar.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Padron.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_regis.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.F_DESPACJO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.F_PROGRAMACION.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Generara_ingreso.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.GESTION_ACTIVIDADES.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_hilo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_Factura.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_remision.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.guia_talleres.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.HojaCotizacion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Importar_Marcaciones.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Imprimir_hco.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresar_Packing.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.iNGRESAROP.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresar_transportista.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingreso_salida_Produ.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.ingre_pack_hilo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.jalar_peso.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Liquidacion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Articulos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Listar_Clientes.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_ARti.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Productos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Tela.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.LoginForm1.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Lotes.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Mantenimiento_carro.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.MAQUINAS_TEJEDORAS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.MDIParent1.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.merma.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Modulo_usuario.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Morosidad_Clientes.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Moviemiento_de_Comprobantes.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.NiaHilo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Nia_Produccion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Nota_Pedido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.NotaIngreso.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.NsaHilo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Nsalida.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.nsa_produccion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.OBSERVACION.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Observacion2.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.observaciones_vn.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Observacion_rama.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.OB_SC.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ocs.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Opcion_venta.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Op_Manufactura.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Costura.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Packing.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Produccion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.ORDEN_CORTE.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Trabajo_Indigo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.os.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Otejeduria.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Otras_Facturas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.pACKING_COMERCIAL.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_hilo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Parte_Ingreso_Salida.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Partidas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.PARTIDA_RAMA.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.PASADO_RAMA.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.PDT_LIBROS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.PEDIDO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Pedidos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.pesaod_rollo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.planeamiento.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Planemaiento_OP.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Planta_packing.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.pproductos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Pre_produccion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.proceso.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Procesos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.ProddiariaTej.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Producto_Cotizacion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Vianny.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Hilo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Tela.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.produc_diaria_confec.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Programa_Tejeduria.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.proveedores.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rama.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rbros_libre.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Almacen.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Celulares.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Facturas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Ventas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_despacho.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Facturas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Proforma.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Tesoreria.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Total_Cobranzas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.REPORTE_CALIDADCC.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cliente.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cobranzas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_conta.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Costura.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cotizacion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Documentos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Ingreso_Salida.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_rama.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_tenido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_ventasn.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Requerimiento__comercial.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.REQUERIMIENTO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Requerimiento_op.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.requerimiento_pedido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.REQUERIMIENTO_PO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.ROLLOS_ADICIONALES.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rOTACION_CLIENTE.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rporte_Libre.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_factura_oc.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ing_sal.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_liquidaciones.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_pt.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ventas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Ventas_ven.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.RUBRO_DE_FACTURAS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.RUBRO_GRAUS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rubro.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rubro2.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rubros_manteminiento.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Seguimiento_Actividades.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.SegundoÑPasado_rama.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Separar_Partidas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.STATUS_CORTE.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_Fisico.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_fisico_comerci.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_Productos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Comisiones.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Vendedores.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Articulos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.TEJEDORES.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.TELAS_OP.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Tesoreria.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.TEÑIDO_DE_CUERDAS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Teñido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ticket.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Tipo_Venta.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.TRABAJADORES.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Transporte.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Transportistas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ubigeo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.UPDATE_HOT.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Urdido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.validar_Almacen.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.validar_Despacho.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Validar_partida.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.vehuculo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Vendedor_Cliente.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.VENTA_GRAUS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas_Textil.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas_Cliente.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.ACUMULADO_PROVEEDORES.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Calidad.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_Mes.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Despacho_Pedido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_cuenta_cliente.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.FORM_OS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_ventan.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.guia_taller.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Imprimir_Teñido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Impr_calidad.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Imp_Expotracion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingreso_salida_Prod.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.lista_rollos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_exportacion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_nacional.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Prod_corteeee.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Nia_Nsa.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte__OP.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_comisiones.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Guia.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Linea.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.REPORTE_NP.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_teñid.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Report_Tenido.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.REQ_C.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rppp_Packig.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpte_Partida.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpts_Cobranzas.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rpt_anuales.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Calidad.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_cja.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Comision.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_corte.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Crudo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_cuentaxPagar.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Explocion.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_export.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Flujo_Caja_Fecha.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_movimiento.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_nia_nsa_prod.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Packig.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Packing.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Pa_Rama.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.RPT_PEDIDOS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Produccion_tejeduria.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_proveedores.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Pro_ven.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Rama.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Rollos.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Tejeduria.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_teñido3.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rpt_vendedo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ventas_cliente.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ventas_rubro.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Ventas_rubro_vendedor.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rp_corte.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.TEJIDO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rubros_Tesoreria.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.GenerateResource.cache
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.CoreCompileInputs.cache
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\SOIGET.exe.manifest
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\SOIGET.application
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.CopyComplete
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\SOIGET.exe
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\SOIGET.xml
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\SOIGET.pdb
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbprojAssemblyReference.cache
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_solicitudes.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_huabipa.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Produccion_diaria_cortee.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Prod_diariacorte.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.ORDE_SERVISO_AC.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rp_os.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.PLANILLA_PAQUETEO.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Planilla_paqueteoo.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rPT_PACKIN_HIANCHIPA.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ord_Corte.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.modulo_solicitud.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.rPT_SOLICITUD.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Agregar_requerimiento.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.detalle_requerimiento.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.AVIOS.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ficha_tecnica.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresos_Salidas_almacen.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Op.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.log.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Form7.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.status.resources
+D:\v2 Soft Vianny\Modulo Ventas\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacenes_Precios.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\SOIGET.exe.config
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\SOIGET.exe.manifest
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\SOIGET.application
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\SOIGET.exe
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\SOIGET.pdb
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\SOIGET.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\EPPlus.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Newtonsoft.Json.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\EnvDTE.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\VSLangProj.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\VsWebSite.Interop.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\EnvDTE80.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\stdole.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\EPPlus.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Newtonsoft.Json.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\SOIGET.exe.config
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Interop.SHDocVw.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.ResolveComReference.cache
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Cantidad_Tallas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Abridora.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Actualizar_Fecha.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Actualizar_tienda.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.ADICIONAR_RUBRO_A_CODIGO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Adicionar_op.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Agregar_Factura.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Agregar_Packing.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Agregar_requerimiento.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacen.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacenes_Precios.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.almacen_guia.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacen_guia_chil.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacen_guia_nuevo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.almacen_nuevo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Cotizaciones.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Op.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Productos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Confeccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_movimientos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobacion_comercial.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobar_Cotizacion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobar_notapedido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprob_os.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Apro_Oc.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Articulos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Articulos_stock.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.AsientoConsumoAlmacen.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Asignacion_Acabados.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Asignacion_Confeccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Asignacion_Molde.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.AUDITORES.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.BDocumentoContable.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Buscar_Factura.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.BUSCAR_VENTA.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.BUSCAR_OP.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.buscar_Packing.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.buscar_requerimitno.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.busca_vn.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Buzin_reclamos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Calidad_tela__acabada.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Calidad_tela_cruda.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Cambiar_Vendedor.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Cancelacion_documento.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Cancelar_Factura.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Clientes.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Cliente_nuevos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Clients_Prove.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Codificacion_Prodcutos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Codigo_barra.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.combinaciones.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_ven.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_Vendedores.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Conera.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Confeccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Consumo_tela_Consolidado.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Contabilidad.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Copiar_Desde.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.corte.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Costos_Tela.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Costo_Prenda.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.CREAR_PARTIDAS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Crear_rollos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Data_Bancos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.DEFECTOS_AUDITORIA.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.DESPACHO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Despachos_adicionales.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detale_Venta.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Factura.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Asignacion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Confeccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Cotizacion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_guia.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_ms.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_pedido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Pedidos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.detalle_reclamo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.detalle_requerimiento.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.DET_FICHA_CONSUMO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.DET_FICHA_TECNICA.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Det_guia_talleres.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.det_maquina.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.det_ns_Prodc.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Det_oc.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Det_Os.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.det_reque.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Det_Rollo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.det_tesoreria.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Direccion_Despacho.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Documento_Pdf.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Editar_Producto.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Eliminar.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.EMISION_PARTIDAS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Error_ventas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Estado_Cliente.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Explosion_avios_graus.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Factura_Letra.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ficha.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.FICHA_ALMACE.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.FICHA_CONSUMO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.FICHA_TECNICA.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ficha_udp.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cliente.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Clientes.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion2.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form1.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form10.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form2.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form3.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form4.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form5.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form6.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form7.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form9.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.FormatoMa.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Formato_solic_avios.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.FormFamilia.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion3.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_cuentarxcobrar.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Padron.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_regis.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_solicitudes.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.F_DESPACJO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.F_PROGRAMACION.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Generara_ingreso.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.GESTION_ACTIVIDADES.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_hilo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_Factura.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_remision.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_remision_prenda.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.guia_talleres.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.HojaCotizacion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Hoja_Reclamos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Importar_Marcaciones.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Imprimir_hco.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresar_Packing.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.iNGRESAROP.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresar_transportista.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresos_Salidas_almacen.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingreso_salida_Produ.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.ingre_pack_hilo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.jalar_peso.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lavados.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Letra.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Liquidacion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Liquidacion_Produccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Liqui_Produccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Liq_servicios_T.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Articulos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Listado_letras.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Listar_Clientes.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_ARti.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Partidas_OT.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Productos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_reclamo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Solicitud.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Tela.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_ultimos_precios.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.log.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.LoginForm1.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lotes.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Mantenimiento_carro.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.MAQUINAS_TEJEDORAS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Matriz_Avios.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.MDIParent1.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.merma.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.modulo_solicitud.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Modulo_usuario.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Morosidad_Clientes.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Motivos_valorizar.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Moviemiento_de_Comprobantes.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.NiaHilo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Nia_Produccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Nia_Pt.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Nota_Pedido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.NotaIngreso.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.NsaHilo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Nsalida.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.nsa_produccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Nsa_Pt.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.OBSERVACION.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Observacion2.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.observaciones_vn.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Observacion_rama.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.OB_SC.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ocs.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.OD.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Opcion_venta.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Op_Manufactura.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Costura.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Packing.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Produccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Compra_Ac.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.ORDEN_CORTE.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Trabajo_Indigo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.ORDE_SERVISO_AC.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ord_Corte.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.os.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Otejeduria.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Otras_Facturas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.pACKING_COMERCIAL.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_hilo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_huabipa.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_Saga.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Parte_Ingreso_Salida.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Partidas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.PARTIDA_RAMA.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.PASADO_RAMA.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.PDT_LIBROS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.PEDIDO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Pedidos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.pesaod_rollo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.planeamiento.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Planemaiento_OP.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.PLANILLA_PAQUETEO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Planta_packing.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.pproductos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Pre_produccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.proceso.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Procesos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.ProddiariaTej.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Produccion_diaria_cortee.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Producto_Cotizacion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Vianny.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.ProductosLinea.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Hilo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Tela.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.produc_diaria_confec.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Programa_Tejeduria.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.proveedores.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rama.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rbros_libre.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reclamos_calidad.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Almacen.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Celulares.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Facturas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Ventas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_despacho.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Facturas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Proforma.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Tesoreria.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Total_Cobranzas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.REPORTE_CALIDADCC.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_calidad_aca.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cliente.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cobranzas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_conta.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Costura.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cotizacion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Documentos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_fallas_teña.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Ingreso_Salida.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_rama.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_tenido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_ventasn.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Requerimiento__comercial.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.REQUERIMIENTO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Requerimiento_op.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.requerimiento_pedido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.REQUERIMIENTO_PO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.ROLLOS_ADICIONALES.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rOTACION_CLIENTE.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rporte_Libre.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rppt_op.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_factura_oc.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_GuiaRe.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ing_sal.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_letra.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_liquidaciones.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_pt.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Ultimas_ventas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ventas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Ventas_ven.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.RUBRO_DE_FACTURAS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.RUBRO_GRAUS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rubro.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rubro2.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rubros_manteminiento.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Seguimiento_Actividades.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Seguimiento_Despachos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Seguimiento_reclamo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.SegundoÑPasado_rama.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Separar_Partidas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Solicitud_telas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.STATUS_CORTE.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_Fisico.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_fisico_comerci.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_Productos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Comisiones.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Vendedores.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Articulos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.tabla_rubros.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Tallas_od.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.TEJEDORES.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.TELAS_OP.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Tesoreria.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.TEÑIDO_DE_CUERDAS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Teñido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ticket.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Tipo_Venta.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.TRABAJADORES.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Transporte.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Transportistas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ubigeo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.UPDATE_HOT.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Urdido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.validar_Almacen.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.validar_Despacho.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Validar_partida.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Valorizr_Salidas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.vehuculo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Vendedor_Cliente.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.VENTA_GRAUS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas_Textil.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas_Cliente.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.ACUMULADO_PROVEEDORES.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.AVIOS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Calidad.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_Mes.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Despacho_Pedido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form8.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_cuenta_cliente.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.FORM_OS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_ventan.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.guia_taller.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Imprimir_Teñido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Impr_calidad.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Imp_Expotracion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingreso_salida_Prod.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.lista_rollos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Movimiento_Produccion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_exportacion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_nacional.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Planilla_paqueteoo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Prod_corteeee.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Prod_diariacorte.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.pTERMINADO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Letra.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Nia_Nsa.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte__OP.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_comisiones.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Consmmo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Guia.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Linea.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.REPORTE_NP.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_ptt.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_PT_Ig.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_teñid.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Report_Tenido.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.REQ_C.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rppp_Packig.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rppt_guiar.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpte_Partida.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpts_Cobranzas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rpt_anuales.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_armadoA.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Calidad.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Calidad_acabado.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_cja.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Comision.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_corte.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Crudo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_cuentaxPagar.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Explocion.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_export.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_fallos_tela.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ficha_tecnica.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Flujo_Caja_Fecha.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_frecuencia_ventas.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_movimiento.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_nia_nsa_prod.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_oc_1.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Op.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Packig.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Packing.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rPT_PACKIN_HIANCHIPA.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Pa_Rama.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.RPT_PEDIDOS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Produccion_Corte_Graus.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Produccion_tejeduria.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_proveedores.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Pro_ven.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Rama.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Reclamo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Rollos.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rPT_SOLICITUD.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Tejeduria.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_teñido3.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rpt_vendedo.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ventas_cliente.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ventas_rubro.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Ventas_rubro_vendedor.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rp_corte.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rp_oc.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rp_os.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.rrPT_TEJE.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.status.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Status_op_simple.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Status_talla.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Status_talla_op.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.TEJIDO.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.VENTAS_RUBROS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Rubros_Tesoreria.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.GenerateResource.cache
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.CoreCompileInputs.cache
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\SOIGET.exe.manifest
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\SOIGET.application
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.CopyComplete
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\SOIGET.exe
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\SOIGET.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\SOIGET.pdb
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.AssemblyReference.cache
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.Web.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\FlashControlV71.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.SERVICIOS.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Servicios.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Clientes_Comerciales.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Cli_Comer.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Marca.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Listado_Marca.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Vendedores.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Colores.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.CPrenda.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_ruta.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Gand_Udp.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Status.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Cierre_Proc_Od.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Cie_pro.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_clonar.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.Od_Udp.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\obj\Debug\Modulo_Ventas.ListaOD.resources
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\netstandard.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.AppContext.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Collections.Concurrent.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Collections.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Collections.NonGeneric.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Collections.Specialized.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.ComponentModel.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.ComponentModel.Primitives.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Console.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Data.Common.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Diagnostics.Contracts.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Diagnostics.Debug.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Diagnostics.Process.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Diagnostics.Tools.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Diagnostics.Tracing.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Drawing.Primitives.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Dynamic.Runtime.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Globalization.Calendars.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Globalization.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Globalization.Extensions.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.Compression.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.FileSystem.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.IsolatedStorage.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.Pipes.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Linq.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Linq.Expressions.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Linq.Parallel.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Linq.Queryable.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.Http.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.NameResolution.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.NetworkInformation.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.Ping.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.Primitives.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.Requests.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.Security.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.Sockets.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.WebSockets.Client.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Net.WebSockets.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.ObjectModel.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Reflection.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Reflection.Extensions.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Reflection.Primitives.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Resources.Reader.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Resources.ResourceManager.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Resources.Writer.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.Extensions.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.Handles.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.InteropServices.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.Numerics.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Security.Claims.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Security.Principal.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Security.SecureString.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Text.Encoding.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Text.RegularExpressions.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Threading.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Threading.Overlapped.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Threading.Tasks.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Threading.Thread.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Threading.ThreadPool.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Threading.Timer.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.ValueTuple.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Xml.ReaderWriter.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Xml.XDocument.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Xml.XmlDocument.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Xml.XmlSerializer.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Xml.XPath.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\EPPlus.Interfaces.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\EPPlus.System.Drawing.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Buffers.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.ComponentModel.Annotations.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Memory.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Numerics.Vectors.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\Microsoft.MSXML.dll
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Buffers.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Memory.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Numerics.Vectors.xml
+D:\v2 Soft Vianny\MODULO SOIGET\Modulo Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\SOIGET.exe.config
+D:\Erp Vianny\Modulo Ventas\bin\Debug\SOIGET.exe.manifest
+D:\Erp Vianny\Modulo Ventas\bin\Debug\SOIGET.application
+D:\Erp Vianny\Modulo Ventas\bin\Debug\SOIGET.exe
+D:\Erp Vianny\Modulo Ventas\bin\Debug\SOIGET.pdb
+D:\Erp Vianny\Modulo Ventas\bin\Debug\SOIGET.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\netstandard.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.AppContext.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Collections.Concurrent.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Collections.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Collections.NonGeneric.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Collections.Specialized.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.ComponentModel.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Console.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Data.Common.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Diagnostics.Debug.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Diagnostics.Process.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Diagnostics.Tools.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Drawing.Primitives.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Dynamic.Runtime.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Globalization.Calendars.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Globalization.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Globalization.Extensions.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.Compression.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.FileSystem.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.Pipes.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Linq.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Linq.Expressions.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Linq.Parallel.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Linq.Queryable.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.Http.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.NameResolution.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.NetworkInformation.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.Ping.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.Primitives.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.Requests.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.Security.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.Sockets.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Net.WebSockets.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.ObjectModel.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Reflection.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Reflection.Extensions.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Reflection.Primitives.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Resources.Reader.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Resources.ResourceManager.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Resources.Writer.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.Extensions.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.Handles.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.InteropServices.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.Numerics.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Security.Claims.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Security.Principal.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Security.SecureString.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Text.Encoding.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Text.RegularExpressions.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Threading.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Threading.Overlapped.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Threading.Tasks.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Threading.Thread.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Threading.ThreadPool.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Threading.Timer.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.ValueTuple.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Xml.XDocument.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Xml.XmlDocument.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Xml.XPath.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.Web.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\EPPlus.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\EPPlus.Interfaces.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\EPPlus.System.Drawing.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\FlashControlV71.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Newtonsoft.Json.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\SAPBusinessObjects.WPF.Viewer.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\SAPBusinessObjects.WPF.ViewerShared.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Buffers.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Memory.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Numerics.Vectors.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\EnvDTE.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\VSLangProj.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\VsWebSite.Interop.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\EnvDTE80.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\stdole.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.MSXML.dll
+D:\Erp Vianny\Modulo Ventas\bin\Debug\EPPlus.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Newtonsoft.Json.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Buffers.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Memory.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Numerics.Vectors.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Erp Vianny\Modulo Ventas\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.AssemblyReference.cache
+D:\Erp Vianny\Modulo Ventas\obj\Debug\SOIGET.exe.config
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Interop.SHDocVw.dll
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.ResolveComReference.cache
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Cantidad_Tallas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Abridora.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Actualizar_Fecha.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Actualizar_tienda.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.ADICIONAR_RUBRO_A_CODIGO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Adicionar_op.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Agregar_Factura.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Agregar_Packing.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Agregar_requerimiento.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacen.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacenes_Precios.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.almacen_guia.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacen_guia_chil.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Almacen_guia_nuevo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.almacen_nuevo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Cotizaciones.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Op.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Productos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_Confeccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Analisis_movimientos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobacion_comercial.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobar_Cotizacion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprobar_notapedido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Aprob_os.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Apro_Oc.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Articulos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Articulos_stock.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.AsientoConsumoAlmacen.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Asignacion_Acabados.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Asignacion_Confeccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Asignacion_Molde.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.AUDITORES.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.BDocumentoContable.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Buscar_Factura.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.BUSCAR_VENTA.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.BUSCAR_OP.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.buscar_Packing.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.buscar_requerimitno.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.busca_vn.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Buzin_reclamos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Calidad_tela__acabada.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Calidad_tela_cruda.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Cambiar_Vendedor.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Cancelacion_documento.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Cancelar_Factura.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Cierre_Proc_Od.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Clientes.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Cliente_nuevos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Clients_Prove.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Codificacion_Prodcutos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Codigo_barra.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Colores.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.combinaciones.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_ven.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_Vendedores.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Conera.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Confeccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Consumo_tela_Consolidado.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Contabilidad.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Copiar_Desde.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.corte.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Costos_Tela.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Costo_Prenda.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.CPrenda.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.CREAR_PARTIDAS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Crear_rollos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Data_Bancos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.DEFECTOS_AUDITORIA.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.DESPACHO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Despachos_adicionales.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detale_Venta.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Factura.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Asignacion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Cie_pro.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_clonar.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Confeccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Cotizacion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_guia.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Marca.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_ms.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_pedido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Pedidos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.detalle_reclamo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.detalle_requerimiento.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_ruta.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Detalle_Status.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.DET_FICHA_CONSUMO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.DET_FICHA_TECNICA.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Det_guia_talleres.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.det_maquina.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.det_ns_Prodc.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Det_oc.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Det_Os.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.det_reque.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Det_Rollo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.det_tesoreria.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Direccion_Despacho.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Documento_Pdf.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Editar_Producto.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Eliminar.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.EMISION_PARTIDAS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Error_ventas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Estado_Cliente.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Explosion_avios_graus.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Factura_Letra.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ficha.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.FICHA_ALMACE.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.FICHA_CONSUMO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.FICHA_TECNICA.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ficha_udp.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cliente.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Clientes.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion2.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form1.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form10.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form2.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form3.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form4.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form5.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form6.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form7.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form9.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.FormatoMa.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Formato_solic_avios.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.FormFamilia.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Cotizacion3.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_cuentarxcobrar.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_Padron.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_regis.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_solicitudes.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.F_DESPACJO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.F_PROGRAMACION.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Gand_Udp.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Generara_ingreso.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.GESTION_ACTIVIDADES.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_hilo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_Factura.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_remision.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Guia_remision_prenda.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.guia_talleres.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.HojaCotizacion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Hoja_Reclamos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Importar_Marcaciones.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Imprimir_hco.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresar_Packing.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.iNGRESAROP.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresar_transportista.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingresos_Salidas_almacen.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingreso_salida_Produ.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.ingre_pack_hilo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.jalar_peso.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lavados.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Letra.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Liquidacion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Liquidacion_Produccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Liqui_Produccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Liq_servicios_T.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Articulos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Listado_letras.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Listado_Marca.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.ListaOD.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Listar_Clientes.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_ARti.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Partidas_OT.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Productos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_reclamo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Solicitud.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Tela.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_ultimos_precios.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lista_Vendedores.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.log.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.LoginForm1.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Lotes.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Mantenimiento_carro.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.MAQUINAS_TEJEDORAS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Matriz_Avios.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.MDIParent1.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.merma.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.modulo_solicitud.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Modulo_usuario.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Morosidad_Clientes.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Motivos_valorizar.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Moviemiento_de_Comprobantes.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.NiaHilo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Nia_Produccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Nia_Pt.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Nota_Pedido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.NotaIngreso.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.NsaHilo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Nsalida.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.nsa_produccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Nsa_Pt.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.OBSERVACION.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Observacion2.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.observaciones_vn.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Observacion_rama.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.OB_SC.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ocs.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.OD.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Od_Udp.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Opcion_venta.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Op_Manufactura.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Costura.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Packing.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Produccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Compra_Ac.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.ORDEN_CORTE.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Orden_Trabajo_Indigo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.ORDE_SERVISO_AC.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ord_Corte.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.os.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Otejeduria.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Otras_Facturas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.pACKING_COMERCIAL.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_hilo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_huabipa.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_Saga.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Parte_Ingreso_Salida.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Partidas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.PARTIDA_RAMA.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.PASADO_RAMA.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.PDT_LIBROS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.PEDIDO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Pedidos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.pesaod_rollo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.planeamiento.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Planemaiento_OP.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.PLANILLA_PAQUETEO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Planta_packing.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.pproductos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Pre_produccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.proceso.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Procesos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.ProddiariaTej.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Produccion_diaria_cortee.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Producto_Cotizacion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Vianny.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.ProductosLinea.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Hilo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Productos_Tela.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.produc_diaria_confec.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Programa_Tejeduria.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.proveedores.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rama.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rbros_libre.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reclamos_calidad.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Almacen.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Celulares.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Facturas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Ventas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Cli_Comer.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Registro_Servicios.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_despacho.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Facturas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Proforma.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Tesoreria.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Total_Cobranzas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.REPORTE_CALIDADCC.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_calidad_aca.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cliente.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cobranzas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_conta.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Costura.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Cotizacion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Documentos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_fallas_teña.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Ingreso_Salida.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_rama.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_tenido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_ventasn.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Requerimiento__comercial.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.REQUERIMIENTO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Requerimiento_op.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.requerimiento_pedido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.REQUERIMIENTO_PO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.ROLLOS_ADICIONALES.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rOTACION_CLIENTE.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rporte_Libre.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rppt_op.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_factura_oc.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_GuiaRe.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ing_sal.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_letra.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_liquidaciones.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_pt.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Ultimas_ventas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ventas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Ventas_ven.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.RUBRO_DE_FACTURAS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.RUBRO_GRAUS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rubro.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rubro2.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rubros_manteminiento.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Seguimiento_Actividades.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Seguimiento_Despachos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Seguimiento_reclamo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.SegundoÑPasado_rama.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Separar_Partidas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Solicitud_telas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.STATUS_CORTE.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_Fisico.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_fisico_comerci.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Stock_Productos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Comisiones.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Vendedores.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Articulos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Tabla_Clientes_Comerciales.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.tabla_rubros.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.SERVICIOS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Tallas_od.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.TEJEDORES.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.TELAS_OP.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Tesoreria.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.TEÑIDO_DE_CUERDAS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Teñido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ticket.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Tipo_Venta.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.TRABAJADORES.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Transporte.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Transportistas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ubigeo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.UPDATE_HOT.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Urdido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.validar_Almacen.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.validar_Despacho.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Validar_partida.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Valorizr_Salidas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.vehuculo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Vendedor_Cliente.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.VENTA_GRAUS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas_Textil.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ventas_Cliente.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.ACUMULADO_PROVEEDORES.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.AVIOS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Calidad.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Comisiones_Mes.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Despacho_Pedido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form8.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_cuenta_cliente.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.FORM_OS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Form_ventan.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.guia_taller.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Imprimir_Teñido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Impr_calidad.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Imp_Expotracion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Ingreso_salida_Prod.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.lista_rollos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Movimiento_Produccion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_exportacion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Packing_nacional.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Planilla_paqueteoo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Prod_corteeee.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Prod_diariacorte.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.pTERMINADO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Letra.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Nia_Nsa.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte__OP.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_comisiones.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Consmmo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Guia.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_Linea.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.REPORTE_NP.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_ptt.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_PT_Ig.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Reporte_teñid.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Report_Tenido.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.REQ_C.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rppp_Packig.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rppt_guiar.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpte_Partida.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpts_Cobranzas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rpt_anuales.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_armadoA.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Calidad.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Calidad_acabado.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_cja.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Comision.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_corte.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Crudo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_cuentaxPagar.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Explocion.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_export.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_fallos_tela.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ficha_tecnica.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Flujo_Caja_Fecha.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_frecuencia_ventas.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_movimiento.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_nia_nsa_prod.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_oc_1.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Op.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Packig.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Packing.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rPT_PACKIN_HIANCHIPA.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Pa_Rama.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.RPT_PEDIDOS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Produccion_Corte_Graus.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Produccion_tejeduria.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_proveedores.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Pro_ven.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Rama.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Reclamo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Rollos.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rPT_SOLICITUD.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Tejeduria.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_teñido3.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rpt_vendedo.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ventas_cliente.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_ventas_rubro.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rpt_Ventas_rubro_vendedor.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rp_corte.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rp_oc.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rp_os.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.rrPT_TEJE.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.status.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Status_op_simple.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Status_talla.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Status_talla_op.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.TEJIDO.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.VENTAS_RUBROS.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo_Ventas.Rubros_Tesoreria.resources
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.GenerateResource.cache
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.CoreCompileInputs.cache
+D:\Erp Vianny\Modulo Ventas\obj\Debug\SOIGET.exe.manifest
+D:\Erp Vianny\Modulo Ventas\obj\Debug\SOIGET.application
+D:\Erp Vianny\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.CopyComplete
+D:\Erp Vianny\Modulo Ventas\obj\Debug\SOIGET.exe
+D:\Erp Vianny\Modulo Ventas\obj\Debug\SOIGET.xml
+D:\Erp Vianny\Modulo Ventas\obj\Debug\SOIGET.pdb
